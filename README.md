@@ -1,6 +1,6 @@
 <h1 align="center">Hello World 🧸, I'm Nguyen Tran</h1>
 <h3 align="center">A passionate Data Plumber apprentice</h3>
-
+<img align="right" src="https://www.icegif.com/wp-content/uploads/2023/10/icegif-395.gif"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ddutjnrevenge-universe&label=Profile%20views&color=0e75b6&style=flat" alt="ddutjnrevenge-universe" /> </p>
 
 - ☄️ I’m currently pursuing **Data Engineering**
