@@ -5,7 +5,7 @@
 
 - ☄️ I’m currently pursuing **Data Engineering**
 
-- 💫 How to reach me **hanhnguyen210704@gmail.com**
+- 💫 Connect with me via **hanhnguyen210704@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
