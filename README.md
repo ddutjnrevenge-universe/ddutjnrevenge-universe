@@ -16,7 +16,6 @@
 </p>
 
 ## Languages and Tools:
-<h3 align="left">Languages and Tools:</h3>
 <div align="left">
   <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="30" alt="python logo" /></code>
   <img width="12" />
