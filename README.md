@@ -37,7 +37,7 @@
 
 ![Snake animation](https://raw.githubusercontent.com/ddutjnrevenge-universe/ddutjnrevenge-universe/output/github-contribution-grid-snake-dark.svg)
 <div align="center">
-  <img width="440px" src="https://github-readme-stats.vercel.app/api?username=ddutjnrevenge-universe&show_icons=true&theme=nightowl">
+<!--   <img width="440px" src="https://github-readme-stats.vercel.app/api?username=ddutjnrevenge-universe&show_icons=true&theme=nightowl"> -->
   <img width="385px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ddutjnrevenge-universe&layout=compact&theme=nightowl" />
   <img width="440px" src="https://github-readme-activity-graph.vercel.app/graph?username=ddutjnrevenge-universe&theme=nightowl">
   <img width="385px" src="https://github-readme-streak-stats.herokuapp.com/?user=ddutjnrevenge-universe&theme=nightowl" />
