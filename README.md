@@ -3,7 +3,7 @@
 </h1>
 <!-- <p> -->
 <!--   <img align="right" width="350px" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExajg4bjQ4bjQ4MnUzbDcya2N6bHdzZ2FlZXJ5Y292MzVhM21iZW8xeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/W4ccMZHvMNUT32Tl4z/giphy.webp"/> -->
-    <img align="right" width="430px" src="https://media.tenor.com/COCpuE07ghEAAAAi/ami-fatcat.gif"/>
+    <img align="right" width="370px" src="https://media.tenor.com/jCEyVXrHV0gAAAAi/ami-fat-cat-ami-cat.gif"/>
 
 <!-- </p> -->
 
