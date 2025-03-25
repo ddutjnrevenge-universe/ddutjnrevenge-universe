@@ -6,7 +6,7 @@
 <!--   <img align="right" width="350px" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExajg4bjQ4bjQ4MnUzbDcya2N6bHdzZ2FlZXJ5Y292MzVhM21iZW8xeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/W4ccMZHvMNUT32Tl4z/giphy.webp"/> -->
 <!--     <img align="center" width="370px" src="https://media.tenor.com/jCEyVXrHV0gAAAAi/ami-fat-cat-ami-cat.gif"/> -->
 
-<h3 align="center">Languages and Tools <img src="https://media.tenor.com/afswcNPfw6QAAAAi/eat.gif" width="50"></h3>
+<h3 align="center"><img src="https://media.tenor.com/afswcNPfw6QAAAAi/eat.gif" width="50"></h3>
 <div align="center">
   <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="30" alt="python logo" /></code>
   <img width="12" />
