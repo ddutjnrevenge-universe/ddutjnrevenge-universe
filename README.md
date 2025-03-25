@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hello+World+🐈‍⬛,+I'm+Nguyen+Tran;An+eager-to-learn+Data+Plumber+apprentice;&font=Fira%20Code&center=true&width=700&height=50&duration=4000&pause=2000&color=7cd7c6" style="width: 100%; max-width: 800px;">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hello+World+🐈‍⬛,+I'm+Nguyen+Tran;An+eager-to-learn+Data+Plumber;&font=Fira%20Code&center=true&width=700&height=50&duration=4000&pause=2000&color=7cd7c6" style="width: 100%; max-width: 800px;">
   <img width="300px" src="https://media.tenor.com/jCEyVXrHV0gAAAAi/ami-fat-cat-ami-cat.gif"/>
 </h1>
 <!-- <p> -->
