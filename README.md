@@ -1,7 +1,4 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hello+World+🐈‍⬛,+I'm+Nguyen+Tran;An+eager-to-learn+Data+Plumber;&font=Fira%20Code&center=true&width=700&height=50&duration=4000&pause=2000&color=7cd7c6" style="width: 100%; max-width: 800px;">
-  <img width="300px" src="https://media.tenor.com/jCEyVXrHV0gAAAAi/ami-fat-cat-ami-cat.gif"/>
-</h1>
+
 <!-- <p> -->
 <!--   <img align="right" width="350px" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExajg4bjQ4bjQ4MnUzbDcya2N6bHdzZ2FlZXJ5Y292MzVhM21iZW8xeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/W4ccMZHvMNUT32Tl4z/giphy.webp"/> -->
 <!--     <img align="center" width="370px" src="https://media.tenor.com/jCEyVXrHV0gAAAAi/ami-fat-cat-ami-cat.gif"/> -->
