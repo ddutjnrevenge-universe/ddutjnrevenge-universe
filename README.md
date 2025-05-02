@@ -28,7 +28,6 @@
   <img width="12" />
 </div>
 
-![Snake animation](https://raw.githubusercontent.com/ddutjnrevenge-universe/ddutjnrevenge-universe/output/github-contribution-grid-snake-dark.svg)
 
 <div>
 <!--   <img width="440px" src="https://github-readme-stats.vercel.app/api?username=ddutjnrevenge-universe&show_icons=true&theme=nightowl"> -->
